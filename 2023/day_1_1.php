@@ -1,7 +1,7 @@
 <?php
 // RayGenWurm, 02.12.2023
 
-$in_lines = file('./inputs/in_day_1_1.txt');
+$in_lines = file('./inputs/in_day_1.txt');
 $sum = 0;
 
 foreach($in_lines as $line) {

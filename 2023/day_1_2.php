@@ -1,6 +1,6 @@
 <?php
 
-$in_lines = file('./inputs/in_day_1_1.txt');
+$in_lines = file('./inputs/in_day_1.txt');
 $str_numbers = array("one", "two", "three", "four", "five", "six", "seven", "eight", "nine");
 $sum = 0;
 
